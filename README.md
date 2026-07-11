@@ -1,16 +1,69 @@
-## Hi there 👋
+# Pudcharapon Yindiram
 
-<!--
-**Pudcharapx/Pudcharapx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science and Software Innovation student, Ubon Ratchathani University (4th year, GPAX 3.62)
+mr.golf0900@gmail.com
 
-Here are some ideas to get you started:
+I work across data, AI, and full-stack development — mostly Python/Django on the backend, React on the front, and LangChain when a project needs an AI layer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+**[PetPal AI](https://github.com/pudcharapon2302/Petpal_Project.git)** — Full-stack platform for lost pet recovery and adoption
+- Django + MySQL backend, TailwindCSS frontend
+- AI assistant built with RAG (LangChain + ChromaDB) for context-aware answers on pet listings
+- Image analysis via Gemini Multimodal API to improve pet matching accuracy
+
+---
+
+## Experience
+
+**Teaching Assistant** — Ubon Ratchathani University
+- Object-Oriented Programming
+- Data Collection
+- Database Systems
+- Web Development
+
+---
+
+## Skills
+
+**Languages & Frameworks**
+- Python
+- SQL
+- JavaScript
+- React
+- Django
+- Dart
+
+**AI/ML**
+- PyTorch
+- TensorFlow
+- Keras
+- Scikit-learn
+- LangChain
+
+**Data**
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+
+**Tools**
+- Git
+- Docker
+- AWS
+- Supabase
+- Jupyter Notebook
+- VS Code
+
+**Languages**
+- Thai (native)
+- English (B2)
+
+---
+
+## Contact
+
+Email: mr.golf0900@gmail.com
