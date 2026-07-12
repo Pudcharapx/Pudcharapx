@@ -28,7 +28,7 @@ I work across data, AI, and full-stack development — mostly Python/Django on t
 
 ## Certifications
 
-- **React Foundations for Next.js** — Vercel (Jul 2026)
+- **[React Foundations for Next.js](react-foundations-certificate.pdf)** — Vercel (Jul 2026)
 
 ---
 
